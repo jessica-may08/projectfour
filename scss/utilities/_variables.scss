@@ -1,0 +1,12 @@
+//Create 5 Color variables
+$color-primary: rgb(86, 243, 165);
+$color-secondary: rgb(87, 94, 99);
+$color-terciary: #51fcc3;
+$color-accent: #ccc;
+$color-link: #fff;
+
+//Create 1 Variable for the Media Query
+
+$media-query-break: '(min-width: 768px)';
+
+//Go through each of your scss partial files and replace the hard coded css values with your variables
